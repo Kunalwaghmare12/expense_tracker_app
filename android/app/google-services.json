@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421700286507",
+    "project_id": "my-project-1-37338",
+    "storage_bucket": "my-project-1-37338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421700286507:android:bc2a88a821761ea737d26e",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk0RM-8st1Sc8_6ozluUKOFpScoYd0KJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
